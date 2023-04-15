@@ -1,0 +1,14 @@
+body {
+    margin: 20;
+    font-family: 'Chilanka', cursive;
+    font-family: 'Delius Swash Caps', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #ecf1f0;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
